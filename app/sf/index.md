@@ -16,4 +16,4 @@ The FBI just got a judge to order Apple to create a backdoor into the iPhone —
 
 ## About the rally
 
-Gather at 4:30pm PST at the flagship Apple Store, One Stockton St, SF. Rally at 5pm! RSVP at our [Facebook Event.](https://www.facebook.com/events/186190735081981/) Bring your cell phones and tablets tuned to [www.protestsign.org](https://www.protestsign.org)! Email [jeff@fightforthefuture.org](mailto:jeff@fightforthefuture.org) with any questions.
+Gather at 4:30pm PST at the flagship Apple Store, One Stockton St, SF. Rally starts at 5pm! RSVP at our [Facebook Event.](https://www.facebook.com/events/186190735081981/) Bring your cell phones and tablets tuned to [www.protestsign.org](https://www.protestsign.org)! Email [jeff@fightforthefuture.org](mailto:jeff@fightforthefuture.org) with any questions.
