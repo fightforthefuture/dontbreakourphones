@@ -39,9 +39,4 @@ exclude: [
 ]
 
 highlighter: pygments
-markdown: rdiscount
-rdiscount:
-  extensions:
-    - footnotes
-#    - autolink
-#    - smart
+markdown: kramdown

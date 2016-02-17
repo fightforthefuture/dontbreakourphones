@@ -5,7 +5,7 @@ description: ""
 
 # Apple is right. We can't let governments backdoor the iPhone.
 
-[Join a rally near you _February 24th, 5PM, Apple Stores Everywhere_](https://www.facebook.com/events/1645036165762086/)
+[Join a rally near you _February 24th, 5PM, Apple Stores Everywhere_](https://www.facebook.com/events/1645036165762086/){: .button}
 
 ## What just happened.
 

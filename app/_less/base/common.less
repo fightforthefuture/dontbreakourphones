@@ -63,6 +63,15 @@ h2 {
     }
 }
 
+a {
+    &:link, &:visited {
+        color: fade(aliceblue, 80%);
+    }
+    &:hover, &:active, &:focus {
+        color: aliceblue;
+    }
+}
+
 img {
     height: auto;
     max-width: 100%;
@@ -78,34 +87,36 @@ p {
     }
 }
 
-div.content {
-    a:first-of-type {
-        display: inline-block;
-        background: #e93a28;
-        padding: 15px 20px 20px 25px;
-        color: white;
-        text-decoration: none;
-        font-size: 24px;
-        margin: 30px 10px 60px 10px;
-        border-radius: 10px;
-        box-shadow: 0px 1px 10px rgba(0, 0, 0, .4);
+.button {
+    display: inline-block;
+    background: #e93a28;
+    padding: 15px 20px 20px 25px;
+    text-decoration: none;
+    font-size: 24px;
+    margin: 30px 10px 60px 10px;
+    border-radius: 10px;
+    box-shadow: 0 1px 10px rgba(0, 0, 0, .4);
+    position: relative;
 
-        em {
-            display: block;
-            font-size: 15px;
-            text-transform: uppercase;
-            font-weight: 600;
-        }
+    @media screen and (min-width: @large-phone) {
+        font-size: 60px;
+        font-weight: bold;
+        padding: 12px 40px 25px 40px;
+    }
 
-        @media screen and (min-width: @large-phone) {
-            font-size: 60px;
-            font-weight: bold;
-            padding: 12px 40px 25px 40px;
-        }
+    &:link, &:visited, &:hover, &:active, &:focus {
+        color: @white;
+    }
 
-        &:hover {
-            margin: 32px 10px 58px 10px;
-            background: #d93918;
-        }
+    &:hover, &:focus {
+        margin: 32px 10px 58px 10px;
+        background: #d93918;
+    }
+
+    em {
+        display: block;
+        font-size: 15px;
+        text-transform: uppercase;
+        font-weight: 600;
     }
 }

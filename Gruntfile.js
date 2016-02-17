@@ -61,13 +61,13 @@ module.exports = function (grunt) {
 
         less: {
             options: {
-                compress: true
+                compress: true,
+                sourceMap: true
             },
             build: {},
             server: {
                 options: {
-                    compress: false,
-                    sourceMap: true
+                    compress: false
                 },
                 files: {
                     '<%= site.dist %>/css/core.css': '<%= site.app %>/_less/core.less'
@@ -109,6 +109,11 @@ module.exports = function (grunt) {
                     return middlewares;
                 },
                 useAvailablePort: true
+            },
+            target: {
+                options: {
+                    base: '<%= site.dist %>'
+                }
             }
         },
 
@@ -188,6 +193,7 @@ module.exports = function (grunt) {
         'clean:server',
         'jekyll:server',
         'concurrent:server',
+        'connect',
         'watch'
     ]);
 
