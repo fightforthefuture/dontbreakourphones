@@ -3,9 +3,9 @@ layout: default
 description: ""
 ---
 
-# Governments want an iPhone backdoor. _We can't let that happen._
+# Apple is right. We can't let governments backdoor the iPhone.
 
-[Join a protest near you _February 24th, 5PM, Apple Stores Everywhere_](https://www.facebook.com/events/1645036165762086/)
+[Join a rally near you _February 24th, 5PM, Apple Stores Everywhere_](https://www.facebook.com/events/1645036165762086/)
 
 ## iPhone backdoor. _We can't let that happen._
 
