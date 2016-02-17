@@ -1,6 +1,6 @@
 ---
 layout: default
-description: ""
+description: "Join the nationwide protest! Government backdoors put everyone at risk."
 ---
 
 # Apple is right. We can't let governments backdoor the iPhone.
