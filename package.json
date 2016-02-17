@@ -1,17 +1,22 @@
 {
-  "name": "fftf-campaign-boostrap",
-  "version": "0.0.0",
+  "name": "dontbreakourphones",
+  "version": "0.0.1",
   "license": "GPL-3.0",
-  "description": "A quick-start microsite generator for Fight for the Future campaigns.",
+  "description": "fbi tryna break encryption",
   "author": [
     {
       "name": "Aki Rose",
       "email": "aki@fightforthefuture.org",
       "url": "https://github.com/gesa/"
+    },
+    {
+      "name": "Jeff Lyon",
+      "email": "jeff@rubbingalcoholic.com",
+      "url": "https://github.com/rubbingalcoholic/"
     }
   ],
   "private" : "true",
-  "repository": "gesa/fftf-campaign-boilerplate",
+  "repository": "fightforthefuture/dontbreakourphones",
   "scripts": {
     "postinstall": "bundle",
     "start": "grunt",

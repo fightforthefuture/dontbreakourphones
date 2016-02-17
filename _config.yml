@@ -11,7 +11,7 @@ name: Don't break our phones!
 url: https://www.dontbreakourphones.org
 description: Government backdoors put everyone at risk.
 timezone: America/Los_Angeles # Should be formatted like formal tz database
-googleanalytics: UA-XXXXXXXX-XX
+googleanalytics: UA-26576645-30
 
 favicon: '' # replace this with path to favicon if that’s a thing you’re doing.
 pathlead: '' # use this if you need a leading slash or directory on asset paths

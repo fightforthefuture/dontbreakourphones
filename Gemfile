@@ -1,6 +1,9 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 3.0', '>= 3.0.1'
-gem 'kramdown'
+ruby "2.2.4"
 
-gem 'travis', '>=1.7.1'
+gem 'jekyll', '~> 3.1'
+gem 'kramdown'
+gem 'json', '1.8.3'
+gem 'travis', '>=1.8.2'
+gem 'jekyll-paginate', '1.1.0'
