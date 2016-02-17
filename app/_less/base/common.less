@@ -1,0 +1,111 @@
+* {
+    box-sizing: border-box
+}
+
+html, body {
+    font-size: 62.5%;
+    height: 100%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: @body-font;
+    position: relative;
+    background: #010101 url(../images/background.jpg) center top no-repeat;
+    background-size: auto 400px;
+    color: white;
+    text-align: center;
+
+    @media screen and (min-width: @small-phone) {
+        background-size: auto 762px;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: @heading-font;
+}
+
+h1 {
+
+    font-weight: 600;
+    text-shadow: 0px 1px 5px rgba(0, 0, 0, .3);
+
+    font-size: 25px;
+    padding-top: 220px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0px auto;
+    max-width: 320px;
+
+    em { display: block; }
+
+
+    @media screen and (min-width: @small-phone) {
+        max-width: 100%;
+        padding-top: 480px;
+        font-size: 50px;
+    }
+
+}
+
+h2 {
+    font-size: 25px;
+    padding: 0px 10px;
+    margin-bottom: 30px;
+
+    em {
+        display: block;
+    }
+
+    @media screen and (min-width: @small-phone) {
+        max-width: 100%;
+        font-size: 50px;
+    }
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+p {
+    max-width: 850px;
+    margin: 0px auto 30px auto;
+    padding: 0px 10px;
+
+    @media screen and (min-width: @small-phone) {
+        font-size: 20px;
+    }
+}
+
+div.content {
+    a:first-of-type {
+        display: inline-block;
+        background: #e93a28;
+        padding: 15px 20px 20px 25px;
+        color: white;
+        text-decoration: none;
+        font-size: 24px;
+        margin: 30px 10px 60px 10px;
+        border-radius: 10px;
+        box-shadow: 0px 1px 10px rgba(0, 0, 0, .4);
+
+        em {
+            display: block;
+            font-size: 15px;
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+
+        @media screen and (min-width: @large-phone) {
+            font-size: 60px;
+            font-weight: bold;
+            padding: 12px 40px 25px 40px;
+        }
+
+        &:hover {
+            margin: 32px 10px 58px 10px;
+            background: #d93918;
+        }
+    }
+}
