@@ -5,7 +5,7 @@ description: "Join the nationwide protest! Government backdoors put everyone at 
 
 # Apple is right. We can't let governments backdoor the iPhone.
 
-[Join a rally near you _February 23rd, 5PM, Apple Stores Everywhere_](https://www.facebook.com/events/1645036165762086/){: .button}
+[Join a rally near you _February 23rd, 5PM, Apple Stores Everywhere_](#rallies){: .button}
 
 ## What just happened?
 
