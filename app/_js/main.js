@@ -53,4 +53,46 @@
         }, false);
     }
 
+    var signups = document.querySelectorAll('form.signup');
+
+    for (var i = 0; i < signups.length; i++) {
+        signups[i].addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            var page_id = this.id || 'www-signup';
+            var email = this.querySelector('input[name="email"]');
+            var name = this.querySelector('input[name="name"]');
+            var zip = this.querySelector('input[name="zip"]');
+
+            var errors = false;
+
+            if (!email.value) {
+                email.className = 'error';
+                errors = true;
+            }
+            if (!name.value) {
+                name.className = 'error';
+                errors = true;
+            }
+            if (!zip.value) {
+                zip.className = 'error';
+                errors = true;
+            }
+            if (errors) {
+                return alert('Please fill out all fields :)');
+            }
+
+            new OrgReferralController({page_id: page_id}).submit({
+                email: email.value,
+                first_name: name.value,
+                zip: zip.value
+            });
+
+            new ShareModalController({
+                headline: 'Thanks for signing!',
+                text: 'We will deliver your signature to President Obama. Together we will make sure the Internet always wins! Please join one of our rallies on Tuesday, February 23rd and be sure to share this page <3'
+            });
+        });
+    }
+
 })(document, window);

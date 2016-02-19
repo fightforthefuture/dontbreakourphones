@@ -2,9 +2,14 @@
 layout: default
 description: "Join the nationwide protest! Government backdoors put everyone at risk."
 class: coalition
+page_id: dontbreakourphones
 ---
 
 # We stand together: government backdoors make us less safe.
+
+**Tell President Obama: #DontBreakOurPhones**
+: Sign the petition against government backdoors in our phones and computers.
+  {% include petition.html %}
 
 The following organizations and individuals express solidarity with Apple's refusal to create government backdoor software for the iPhone. <strong>#DontBreakOurPhones</strong>
 

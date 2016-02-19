@@ -1,0 +1,78 @@
+dl.petition {
+    padding: 20px;
+    background: rgba(0, 0, 0, .3);
+    max-width: 740px;
+    margin: 0px auto 50px auto;
+
+    @media screen and (min-width: @small-tablet) {
+        border-radius: 10px;
+    }
+
+    dt {
+        font-size: 20px;
+    }
+
+    form {
+        margin: 20px 0px 0px 0px;
+        font-size: 0px;
+
+        input {
+            border: 1px solid #aaa;
+            background: #fff;
+            height: 40px;
+            line-height: 40px;
+            padding: 0px 10px;
+            width: 100%;
+            margin-bottom: 10px;
+            font-size: 17px;
+
+            &.error {
+                background: #fcc;
+            }
+
+            @media screen and (min-width: @small-tablet) {
+                display: inline-block;
+                width: 150px;
+                vertical-align: top;
+                height: 47px;
+                line-height: 47px;
+
+                border-left: 0px;
+
+                &:first-child {
+                    border-left: 1px solid #aaa;
+                }
+            }
+        }
+        button {
+            display: inline-block;
+            background: #e93a28;
+            padding: 15px 25px 15px 25px;
+            text-decoration: none;
+            font-size: 24px;
+            margin: 0px 10px 20px 10px;
+            border: 0px;
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            border-radius: 10px;
+            box-shadow: 0 1px 10px rgba(0, 0, 0, .4);
+            position: relative;
+            cursor: pointer;
+            vertical-align: top;
+
+            &:hover, &:focus {
+                background: #d93918;
+            }
+
+            @media screen and (min-width: @small-tablet) {
+                padding: 10px 25px;
+            }
+        }
+
+        p {
+            font-size: 12px;
+            margin: 7px 0px 15px 0px;
+        }
+    }
+}

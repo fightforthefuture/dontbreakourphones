@@ -1,0 +1,10 @@
+  {% capture page_id %}{% if page.page_id %}{{ page.page_id }}{% else %}uncategorized{% endif %}{% endcapture %}
+  <!-- the indent is crucial on this due to how kramdown interprets the include-->
+  <form class="signup" id="{{ page_id }}">
+  <input type="text" name="name" placeholder="Your name"/>
+  <input type="email" name="email" placeholder="Email address"/>
+  <input type="text" name="zip" placeholder="Zip Code"/>
+  <button type="submit">Email Obama</button>
+  <p><a href="https://www.fightforthefuture.org" target="_blank">Fight for the Future</a> will deliver your signature and email you with campaign updates. <a href="https://www.fightforthefuture.org/privacy" target="_blank">Privacy Policy</a></p>
+  </form>
+{:.petition}
