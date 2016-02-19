@@ -4,7 +4,7 @@ description: "Join the nationwide protest! Government backdoors put everyone at 
 class: coalition
 ---
 
-# We agree with Apple: government backdoors make us less safe.
+# We stand together: government backdoors make us less safe.
 
 The following organizations and individuals express solidarity with Apple's refusal to create government backdoor software for the iPhone. <strong>#DontBreakOurPhones</strong>
 
