@@ -14,6 +14,7 @@ The following organizations and individuals express solidarity with Apple's refu
 * ![](/images/coalition/twitter.png)
 * ![](/images/coalition/whatsapp.png)
 * ![](/images/coalition/pia.png)
+* ![](/images/coalition/expressvpn.png)
 * ![](/images/coalition/eff.png)
 * ![](/images/logo.png)
 * ![](/images/coalition/freedomofthepress.png)
