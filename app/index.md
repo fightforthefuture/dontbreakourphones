@@ -58,3 +58,4 @@ All events at 5:30pm local time.
 - Get some photos of the group with your phones and signs up. Send your photos IMMEDIATELY to <team@fightforthefuture.org> and we’ll help get them out to the press and on social media. The faster you can send photos the more likely we are to get press attention. You can also post photos on social media with the hashtag #DontBreakOurPhones.
 - Today up until the rally: message, call, & text everyone you know to come show support. It really works! Let us know if you’ll have time to do more outreach and we can further assist you.
 - Print out [this flyer](http://www.dontbreakourphones.org/images/flyer.pdf), and hand it to passers-by and media crews.
+{: .resources }
