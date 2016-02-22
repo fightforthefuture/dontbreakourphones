@@ -3,7 +3,7 @@ layout: default
 description: "Join the nationwide protest! Government backdoors put everyone at risk."
 ---
 
-# Apple is right. We can't let governments backdoor the iPhone.
+# Apple is right to fight the FBI. We can’t let governments backdoor the iPhone.
 
 [Join a rally near you _February 23rd, 5:30PM, Apple Stores Everywhere_](#rallies){: .button}
 
