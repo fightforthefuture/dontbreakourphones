@@ -50,3 +50,10 @@ All events at 5:30pm local time.
 * [Pittsburgh, PA](https://actionnetwork.org/events/rally-in-pittsburgh-pa-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Houston, TX](https://actionnetwork.org/events/rally-in-houston-tx-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Seattle, WA](https://actionnetwork.org/events/rally-in-seattle-wa-apple-is-right-no-government-backdoor-in-our-iphones)
+
+## Resources for rallies
+
+Heading to a rally? Bring these with you!
+
+* [ProtestSign.org — use your phone, tablet or laptop as a protest sign](https://www.protestsign.org/)
+* [Printable 1-page flyer for handing out](/images/flyer.pdf)
