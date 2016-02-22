@@ -51,9 +51,10 @@ All events at 5:30pm local time.
 * [Houston, TX](https://actionnetwork.org/events/rally-in-houston-tx-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Seattle, WA](https://actionnetwork.org/events/rally-in-seattle-wa-apple-is-right-no-government-backdoor-in-our-iphones)
 
-## Resources for rallies
+## Resources
 
-Heading to a rally? Bring these with you!
-
-* [ProtestSign.org — use your phone, tablet or laptop as a protest sign](https://www.protestsign.org/)
-* [Printable 1-page flyer for handing out](/images/flyer.pdf)
+- Show up on Tuesday at 5:30pm local time and gather in front of the store holding signs or phones, computers, and tablets open to [ProtestSign.org](https://protestsign.org/) (which turns your device into a handy protest sign!) You can also bring your own handmade sign too! Our basic message is: “FBI: Don’t break our iPhones!” and “Secure Phones Save Lives.”
+- Be energetic, but positive! We’re angry that the FBI is trying to make all of us less safe by undermining Apple’s security, but the goal of these events is to educate the public, lawmakers, and the press about WHY this is so dangerous. So let’s channel our anger into action!
+- Get some photos of the group with your phones and signs up. Send your photos IMMEDIATELY to <team@fightforthefuture.org> and we’ll help get them out to the press and on social media. The faster you can send photos the more likely we are to get press attention. You can also post photos on social media with the hashtag #DontBreakOurPhones.
+- Today up until the rally: message, call, & text everyone you know to come show support. It really works! Let us know if you’ll have time to do more outreach and we can further assist you.
+- Print out [this flyer](http://www.dontbreakourphones.org/images/flyer.pdf), and hand it to passers-by and media crews.
