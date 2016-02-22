@@ -1,6 +1,6 @@
 {
   "name": "dontbreakourphones",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "GPL-3.0",
   "description": "fbi tryna break encryption",
   "author": [
@@ -15,7 +15,7 @@
       "url": "https://github.com/rubbingalcoholic/"
     }
   ],
-  "private" : "true",
+  "private": "true",
   "repository": "fightforthefuture/dontbreakourphones",
   "scripts": {
     "postinstall": "bundle",
