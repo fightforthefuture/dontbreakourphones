@@ -58,7 +58,6 @@ All events at 5:30pm local time.
 * [Santa Rosa, CA](https://actionnetwork.org/events/dont-break-our-phones)
 * [Scottsdale, AZ](https://actionnetwork.org/events/rally-in-phoenix-az-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Seattle, WA](https://actionnetwork.org/events/rally-in-seattle-wa-apple-is-right-no-government-backdoor-in-our-iphones)
-* [South Windsor, CT](https://actionnetwork.org/events/rally-in-south-windsor-ct-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Spokane Valley](https://actionnetwork.org/events/aapl-no-backdoors-pl0x-ps-gg)
 * [Tampa, FL](https://actionnetwork.org/events/rally-in-tampa-fl-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Thousand Oaks, CA](https://actionnetwork.org/events/dont-break-our-phones-3)
