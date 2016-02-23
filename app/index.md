@@ -16,12 +16,22 @@ The FBI just got a judge to order Apple to create a backdoor into the iPhone —
 
 All events at 5:30pm local time.
 
+* [Boston, MA](https://actionnetwork.org/events/rally-in-boston-ma-apple-is-right-no-government-backdoor-in-our-iphones)
+* [Houston, TX](https://actionnetwork.org/events/rally-in-houston-tx-apple-is-right-no-government-backdoor-in-our-iphones)
+* [Los Angeles, CA](https://actionnetwork.org/events/rally-in-los-angeles-ca-apple-is-right-no-government-backdoor-in-our-iphones)
+* [Metairie, LA](https://actionnetwork.org/events/rally-in-metairie-la-apple-is-right-no-government-backdoor-in-our-iphones)
+* [New York, NY](https://actionnetwork.org/events/rally-in-new-york-ny-apple-is-right-no-government-backdoor-in-our-iphones)
+* [Portland, OR](https://actionnetwork.org/events/rally-in-portland-or-apple-is-right-no-government-backdoor-in-our-iphones)
+* [San Diego, CA](https://actionnetwork.org/events/rally-in-san-diego-ca-apple-is-right-no-government-backdoor-in-our-iphones)
+* [San Francisco, CA](https://actionnetwork.org/events/rally-in-san-francisco-ca-apple-is-right-no-government-backdoor-in-our-iphones)
+* [Washington, DC](https://actionnetwork.org/events/rally-in-washington-dc-apple-is-right-no-government-backdoor-in-our-iphones)
+
+## Grassroots rallies
 
 * [Albuquerque, NM](https://actionnetwork.org/events/rally-to-stand-up-against-government-backdoors)
 * [Anchorage, AK](https://actionnetwork.org/events/rally-in-anchorage-ak-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Ann Arbor, MI](https://actionnetwork.org/events/rally-in-ann-arbot-mi-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Atlanta, GA](https://actionnetwork.org/events/rally-in-atlanta-ga-apple-is-right-no-government-backdoor-in-our-iphones)
-* [Boston, MA](https://actionnetwork.org/events/rally-in-boston-ma-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Boulder, CO](https://actionnetwork.org/events/rally-in-boulder-co-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Brandon, FL](https://actionnetwork.org/events/rally-in-brandon-fl-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Cherry Hill, NJ](https://actionnetwork.org/events/rally-in-cherry-hill-nj-apple-is-right-no-government-backdoor-in-our-iphones)
@@ -32,27 +42,18 @@ All events at 5:30pm local time.
 * [Exeter, UK](https://actionnetwork.org/events/rally-at-your-apple-store-to-stand-up-against-government-backdoors)
 * [Farmington, CT](https://actionnetwork.org/events/rally-in-farmington-ct-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Glendale, WI](https://actionnetwork.org/events/dont-break-our-iphones)
-* [Hong Kong, China](https://actionnetwork.org/events/rally-in-hong-kong-apple-is-right-no-government-backdoor-in-our-iphones?source=widget)
-* [Houston, TX](https://actionnetwork.org/events/rally-in-houston-tx-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Huntington Station, NY](https://actionnetwork.org/events/apple-rally-for-encryption)
-* [London, UK](https://actionnetwork.org/events/rally-at-your-apple-store-to-stand-up-against-government-backdoors-2)
-* [Los Angeles, CA](https://actionnetwork.org/events/rally-in-los-angeles-ca-apple-is-right-no-government-backdoor-in-our-iphones)
-* [Metairie, LA](https://actionnetwork.org/events/rally-in-metairie-la-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Miami Beach, FL](https://actionnetwork.org/events/rally-in-miami-fl-apple-support-rally)
 * [Minneapolis, MN](https://actionnetwork.org/events/rally-in-minneapolis-mn-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Modesto, CA](https://actionnetwork.org/events/rally-in-modesto-ca-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Munich, Germany](https://actionnetwork.org/events/we-support-apple-in-munich-against-fbi)
-* [New York, NY](https://actionnetwork.org/events/rally-in-new-york-ny-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Palm Beach Gardens, FL](https://actionnetwork.org/events/rally-in-palm-beach-fl-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Palo Alto, CA](https://actionnetwork.org/events/rally-in-palo-alto-ca-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Philadelphia, PA](https://actionnetwork.org/events/rally-in-philadelphia-pa-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Pittsburgh, PA](https://actionnetwork.org/events/rally-in-pittsburgh-pa-apple-is-right-no-government-backdoor-in-our-iphones)
-* [Portland, OR](https://actionnetwork.org/events/rally-in-portland-or-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Phoenix, AZ](https://actionnetwork.org/events/rally-in-phoenix-az-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Ridgeland, MS](https://actionnetwork.org/events/rally-in-ridgeland-ms-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Sacramento, CA](https://actionnetwork.org/events/rally-in-sacramento-ca-apple-is-right-no-government-backdoor-in-our-iphones)
-* [San Diego, CA](https://actionnetwork.org/events/rally-in-san-diego-ca-apple-is-right-no-government-backdoor-in-our-iphones)
-* [San Francisco, CA](https://actionnetwork.org/events/rally-in-san-francisco-ca-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Santa Monica, CA](https://actionnetwork.org/events/rally-in-santa-monica-ca-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Santa Rosa, CA](https://actionnetwork.org/events/dont-break-our-phones)
 * [Scottsdale, AZ](https://actionnetwork.org/events/rally-in-phoenix-az-apple-is-right-no-government-backdoor-in-our-iphones)
@@ -62,7 +63,6 @@ All events at 5:30pm local time.
 * [Tampa, FL](https://actionnetwork.org/events/rally-in-tampa-fl-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Thousand Oaks, CA](https://actionnetwork.org/events/dont-break-our-phones-3)
 * [Valencia, CA](https://actionnetwork.org/events/rally-in-santa-clara-ca-apple-is-right-no-government-backdoor-in-our-iphones)
-* [Washington, DC](https://actionnetwork.org/events/rally-in-washington-dc-apple-is-right-no-government-backdoor-in-our-iphones)
 
 ## Resources
 
