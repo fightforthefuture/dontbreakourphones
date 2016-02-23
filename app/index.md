@@ -27,7 +27,7 @@ All events at 5:30pm local time.
 * [Santa Monica, CA](https://actionnetwork.org/events/rally-in-santa-monica-ca-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Washington, DC](https://actionnetwork.org/events/rally-in-washington-dc-apple-is-right-no-government-backdoor-in-our-iphones)
 
-## Member-initiated rallies
+## Member-led rallies
 
 * [Albuquerque, NM](https://actionnetwork.org/events/rally-to-stand-up-against-government-backdoors)
 * [Anchorage, AK](https://actionnetwork.org/events/rally-in-anchorage-ak-apple-is-right-no-government-backdoor-in-our-iphones)
