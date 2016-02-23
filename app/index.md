@@ -1,5 +1,4 @@
 ---
-layout: default
 description: "Join the nationwide protest! Government backdoors put everyone at risk."
 ---
 

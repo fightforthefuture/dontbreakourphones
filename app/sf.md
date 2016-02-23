@@ -1,5 +1,4 @@
 ---
-layout: default
 sharetitle: Emergency protest today (2/17) in SF!
 description: "Apple is right. We can’t let governments backdoor the iPhone."
 ---
