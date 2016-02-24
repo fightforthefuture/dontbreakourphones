@@ -7,7 +7,7 @@ description: "Join the nationwide protest! Government backdoors put everyone at 
 [Join a rally near you _February 23rd, 5:30PM, Apple Stores Everywhere_](#list-of-rallies){: .button}
 
 > [Don’t Break our Phones rallies, Feb 23, 2016](https://imgur.com/a/WIzWH)
-{: .imgur-embed-pub lang="en" data-id="a/WIzWH" }
+{: .imgur-embed-pub lang="en" data-id="a/WIzWH" id="gallery" }
 
 <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
