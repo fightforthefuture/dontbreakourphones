@@ -29,6 +29,12 @@ future: true
 show_drafts: true
 permalink: /:title/ # See Jekyll documentation for permalink styles
 
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: default
+
 #############
 # Compiling #
 #############

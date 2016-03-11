@@ -12,6 +12,15 @@
         font-size: 2.5rem;
     }
 }
+
+#event_map_wrap {
+    margin: 0 auto;
+    width: 90%; // this makes it so touch devices can scroll past the map
+    @media screen and (min-width: @small-tablet) {
+        width: 100%;
+    }
+}
+
 #can_embed_form {
     .clearfix {
         text-align: center;
@@ -22,6 +31,8 @@
     &.can_float #form_col1 {
         float: none !important;
         display: inline-block;
+        max-width: 60rem;
+        width: 100% !important;
     }
     #form_col4 {
         display: none;
