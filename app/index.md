@@ -51,7 +51,7 @@ All events at 5:30pm local time.
 * [Houston, TX](https://actionnetwork.org/events/rally-in-houston-tx-apple-is-right-no-government-backdoor-in-our-iphones)
 * [Seattle, WA](https://actionnetwork.org/events/rally-in-seattle-wa-apple-is-right-no-government-backdoor-in-our-iphones)
 
-## Resources for rallies
+## Resources for rallies                                            {#resources}
 
 Heading to a rally? Bring these with you!
 

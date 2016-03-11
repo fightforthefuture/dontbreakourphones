@@ -1,0 +1,149 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'i' ]
+2 info using npm@2.11.3
+3 info using node@v0.12.7
+4 verbose readDependencies loading dependencies from /home/jeff/Documents/htdocs/dontbreakourphones/package.json
+5 verbose install where, deps [ '/home/jeff/Documents/htdocs/dontbreakourphones',
+5 verbose install   [ 'autoprefixer',
+5 verbose install     'cssnano',
+5 verbose install     'grunt',
+5 verbose install     'grunt-autoprefixer',
+5 verbose install     'grunt-cli',
+5 verbose install     'grunt-concurrent',
+5 verbose install     'grunt-contrib-clean',
+5 verbose install     'grunt-contrib-concat',
+5 verbose install     'grunt-contrib-connect',
+5 verbose install     'grunt-contrib-copy',
+5 verbose install     'grunt-contrib-csslint',
+5 verbose install     'grunt-contrib-less',
+5 verbose install     'grunt-contrib-uglify',
+5 verbose install     'grunt-contrib-watch',
+5 verbose install     'grunt-jekyll',
+5 verbose install     'grunt-postcss',
+5 verbose install     'jit-grunt',
+5 verbose install     'time-grunt' ] ]
+6 verbose install where, peers [ '/home/jeff/Documents/htdocs/dontbreakourphones', [] ]
+7 verbose installManyTop reading for lifecycle /home/jeff/Documents/htdocs/dontbreakourphones/package.json
+8 info preinstall dontbreakourphones@0.0.1
+9 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/autoprefixer/package.json
+10 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/cssnano/package.json
+11 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt/package.json
+12 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-autoprefixer/package.json
+13 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-cli/package.json
+14 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-concurrent/package.json
+15 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-clean/package.json
+16 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-concat/package.json
+17 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-connect/package.json
+18 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-copy/package.json
+19 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-csslint/package.json
+20 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-less/package.json
+21 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-uglify/package.json
+22 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-watch/package.json
+23 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-jekyll/package.json
+24 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-postcss/package.json
+25 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/jit-grunt/package.json
+26 verbose installManyTop reading scoped package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/time-grunt/package.json
+27 info package.json grunt@0.4.5 No license field.
+28 info package.json grunt-cli@0.1.13 No license field.
+29 info package.json grunt-contrib-clean@0.6.0 No license field.
+30 info package.json grunt-contrib-csslint@0.4.0 No license field.
+31 info package.json grunt-contrib-less@0.11.4 No license field.
+32 info package.json grunt-contrib-concat@0.5.1 No license field.
+33 info package.json grunt-contrib-uglify@0.5.1 No license field.
+34 info package.json grunt-contrib-watch@0.6.1 No license field.
+35 verbose readDependencies loading dependencies from /home/jeff/Documents/htdocs/dontbreakourphones/package.json
+36 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/autoprefixer/package.json
+37 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/cssnano/package.json
+38 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt/package.json
+39 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-autoprefixer/package.json
+40 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-cli/package.json
+41 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-concurrent/package.json
+42 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-clean/package.json
+43 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-concat/package.json
+44 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-connect/package.json
+45 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-copy/package.json
+46 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-csslint/package.json
+47 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-less/package.json
+48 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-uglify/package.json
+49 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-contrib-watch/package.json
+50 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-jekyll/package.json
+51 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/grunt-postcss/package.json
+52 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/jit-grunt/package.json
+53 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/time-grunt/package.json
+54 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/.bin/cssnano/package.json
+55 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/.bin/grunt/package.json
+56 verbose targetResolver reading package data from /home/jeff/Documents/htdocs/dontbreakourphones/node_modules/.bin/grunt-jekyll/package.json
+57 verbose already installed skipping grunt@^0.4.5 /home/jeff/Documents/htdocs/dontbreakourphones
+58 verbose already installed skipping grunt-autoprefixer@^2.2.0 /home/jeff/Documents/htdocs/dontbreakourphones
+59 verbose already installed skipping grunt-cli@^0.1.13 /home/jeff/Documents/htdocs/dontbreakourphones
+60 verbose already installed skipping grunt-concurrent@^1.0.0 /home/jeff/Documents/htdocs/dontbreakourphones
+61 verbose already installed skipping grunt-contrib-clean@^0.6.0 /home/jeff/Documents/htdocs/dontbreakourphones
+62 verbose already installed skipping grunt-contrib-concat@^0.5.0 /home/jeff/Documents/htdocs/dontbreakourphones
+63 verbose already installed skipping grunt-contrib-connect@~0.11.2 /home/jeff/Documents/htdocs/dontbreakourphones
+64 verbose already installed skipping grunt-contrib-copy@^0.8.0 /home/jeff/Documents/htdocs/dontbreakourphones
+65 verbose already installed skipping grunt-contrib-csslint@^0.4.0 /home/jeff/Documents/htdocs/dontbreakourphones
+66 verbose already installed skipping grunt-contrib-less@~0.11.4 /home/jeff/Documents/htdocs/dontbreakourphones
+67 verbose already installed skipping grunt-contrib-uglify@^0.5.1 /home/jeff/Documents/htdocs/dontbreakourphones
+68 verbose already installed skipping grunt-contrib-watch@~0.6.1 /home/jeff/Documents/htdocs/dontbreakourphones
+69 verbose already installed skipping grunt-jekyll@^0.4.2 /home/jeff/Documents/htdocs/dontbreakourphones
+70 verbose already installed skipping grunt-postcss@^0.6.0 /home/jeff/Documents/htdocs/dontbreakourphones
+71 verbose already installed skipping jit-grunt@^0.9.1 /home/jeff/Documents/htdocs/dontbreakourphones
+72 verbose already installed skipping time-grunt@^1.1.0 /home/jeff/Documents/htdocs/dontbreakourphones
+73 verbose already installed skipping autoprefixer@^6.0.0 /home/jeff/Documents/htdocs/dontbreakourphones
+74 verbose already installed skipping cssnano@^2.6.1 /home/jeff/Documents/htdocs/dontbreakourphones
+75 silly install resolved []
+76 info build /home/jeff/Documents/htdocs/dontbreakourphones
+77 info linkStuff dontbreakourphones@0.0.1
+78 silly linkStuff dontbreakourphones@0.0.1 has /home/jeff/Documents/htdocs as its parent node_modules
+79 verbose linkBins dontbreakourphones@0.0.1
+80 verbose linkMans dontbreakourphones@0.0.1
+81 verbose rebuildBundles dontbreakourphones@0.0.1
+82 verbose rebuildBundles [ '.bin',
+82 verbose rebuildBundles   'autoprefixer',
+82 verbose rebuildBundles   'cssnano',
+82 verbose rebuildBundles   'grunt',
+82 verbose rebuildBundles   'grunt-autoprefixer',
+82 verbose rebuildBundles   'grunt-cli',
+82 verbose rebuildBundles   'grunt-concurrent',
+82 verbose rebuildBundles   'grunt-contrib-clean',
+82 verbose rebuildBundles   'grunt-contrib-concat',
+82 verbose rebuildBundles   'grunt-contrib-connect',
+82 verbose rebuildBundles   'grunt-contrib-copy',
+82 verbose rebuildBundles   'grunt-contrib-csslint',
+82 verbose rebuildBundles   'grunt-contrib-less',
+82 verbose rebuildBundles   'grunt-contrib-uglify',
+82 verbose rebuildBundles   'grunt-contrib-watch',
+82 verbose rebuildBundles   'grunt-jekyll',
+82 verbose rebuildBundles   'grunt-postcss',
+82 verbose rebuildBundles   'jit-grunt',
+82 verbose rebuildBundles   'time-grunt' ]
+83 info install dontbreakourphones@0.0.1
+84 info postinstall dontbreakourphones@0.0.1
+85 verbose unsafe-perm in lifecycle true
+86 info dontbreakourphones@0.0.1 Failed to exec postinstall script
+87 verbose stack Error: dontbreakourphones@0.0.1 postinstall: `bundle`
+87 verbose stack Exit status 18
+87 verbose stack     at EventEmitter.<anonymous> (/usr/local/lib/node_modules/npm/lib/utils/lifecycle.js:213:16)
+87 verbose stack     at EventEmitter.emit (events.js:110:17)
+87 verbose stack     at ChildProcess.<anonymous> (/usr/local/lib/node_modules/npm/lib/utils/spawn.js:24:14)
+87 verbose stack     at ChildProcess.emit (events.js:110:17)
+87 verbose stack     at maybeClose (child_process.js:1015:16)
+87 verbose stack     at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+88 verbose pkgid dontbreakourphones@0.0.1
+89 verbose cwd /home/jeff/Documents/htdocs/dontbreakourphones
+90 error Linux 3.19.0-49-generic
+91 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "i"
+92 error node v0.12.7
+93 error npm  v2.11.3
+94 error code ELIFECYCLE
+95 error dontbreakourphones@0.0.1 postinstall: `bundle`
+95 error Exit status 18
+96 error Failed at the dontbreakourphones@0.0.1 postinstall script 'bundle'.
+96 error This is most likely a problem with the dontbreakourphones package,
+96 error not with npm itself.
+96 error Tell the author that this fails on your system:
+96 error     bundle
+96 error You can get their info via:
+96 error     npm owner ls dontbreakourphones
+96 error There is likely additional logging output above.
+97 verbose exit [ 1, true ]

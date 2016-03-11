@@ -1,6 +1,7 @@
 (function (doc, win) {
     "use strict";
 
+    /*
     var util = {
 
         share: function() {
@@ -52,6 +53,7 @@
             util.google_plus();
         }, false);
     }
+    */
 
     var signups = document.querySelectorAll('form.signup');
 
